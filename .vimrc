@@ -5,6 +5,7 @@ let mapleader = " "
 set showmode
 set nocompatible
 set number
+set relativenumber
 set showmatch
 filetype plugin on
 syntax on
